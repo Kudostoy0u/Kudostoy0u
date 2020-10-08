@@ -37,7 +37,7 @@
  
   * Docker
 
-Some JS I've held on to for over a year:
+## Some JS I've held on to for over a year 😊:
 ```
 $("#clickelement").on("click, function(){
 var satisfied = Math.floor(Math.random()*1.08);
