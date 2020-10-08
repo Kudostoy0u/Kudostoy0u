@@ -13,10 +13,13 @@
 
 * Mongodb
 
-
 * Heroku
 
 * Netlify
+
+* Bootstrap
+
+* Semantic UI
 
 * Lots of cryptography! (RSA AES and SHA256)
 
