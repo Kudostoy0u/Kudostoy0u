@@ -1,16 +1,36 @@
-### Hi there 👋
+# I'm Kudos Beluga
+## A Full Stack Dev. I program with:
 
-<!--
-**Kudostoy0u/Kudostoy0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Nodejs
 
-Here are some ideas to get you started:
+* Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+
+* Express
+
+* Flask
+
+* Mongodb
+
+
+* Heroku
+
+* Netlify
+
+* Lots of cryptography! (RSA AES and SHA256)
+
+## I'm learning (from most proficient to least proficient):
+
+* Postgresql
+
+* "Mastering the Javascript Interview"
+
+* Vercel
+
+* Microsoft Azure
+
+## I want to learn
+ 
+  * Docker
+
