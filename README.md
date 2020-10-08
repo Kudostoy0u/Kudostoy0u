@@ -21,7 +21,7 @@
 
 * Semantic UI
 
-* Lots of cryptography! (RSA AES and SHA256)
+* Lots of cryptography! (RSA \[ only used once\], Bcrypt, AES and SHA256)
 
 ## I'm learning (from most proficient to least proficient):
 
