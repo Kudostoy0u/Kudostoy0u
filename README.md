@@ -39,6 +39,13 @@
 
 Some JS I've held on to for over a year:
 ```
-function clickFunction() { var satisfied = Math.floor(Math.random()*1.08); var LinkToH1 = document.getElementById("h1"); if (!satisfied) { LinkToH1.innerHTML = "I am not satisfied with how much you programmed today." } else { LinkToH1.innerHTML = "Lucky you! I am satisfied with how much you programmed today!"
- } }
+$("#clickelement").on("click, function(){
+var satisfied = Math.floor(Math.random()*1.08);
+var LinkToH1 = document.getElementById("h1");
+if (!satisfied) {
+LinkToH1.innerHTML = "I am not satisfied with how much you programmed today." 
+} else { 
+LinkToH1.innerHTML = "Lucky you! I am satisfied with how much you programmed today!"
+ } 
+ })
  ```
