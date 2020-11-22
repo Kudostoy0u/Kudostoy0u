@@ -8,12 +8,15 @@
 - CSS
 - English 😉
 - Heroku
+- Mongodb
 # Yeah, that isn't a whole lot of things mastered. Here are some stuff I'm close(ish) to proficient at:
 - React
 - Docker
 - Python (flask)
 - Golang
 - Vercel
+- Postgresql
+- Mongoose
 # Low experience, learning:
 - Microsoft Azure
 - ASP.NET
