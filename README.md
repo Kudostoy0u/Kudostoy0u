@@ -1,11 +1,9 @@
 ![my views](https://komarev.com/ghpvc/?username=kudostoy0u)
 # Kudos Beluga
-## MERN stack + Postegresql because I love elephants
-## Learning Rust
-## Love shell scripting in Powershell and Zsh
-All my repos are crap except for https://github.com/Kudostoy0u/pwsh10k because...
-They're crap.<br>
-If you use the Brave browser it would really surprise me if you could tip a `BAT` ;)
+## Fullstack dev (Mongodb, Postgres, Node.js, Express)
+## Learning Rust and Haskell
+## Love shell scripting in Powershell and Fish
+[Sneak peek of portfolio site in development](https://user-images.githubusercontent.com/69732000/118157549-4cf36d80-b3e0-11eb-8650-891f847d3e04.png)
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=kudostoy0u&show_icons=true&theme=radical)
 
