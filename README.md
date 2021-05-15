@@ -1,6 +1,6 @@
 ![my views](https://komarev.com/ghpvc/?username=kudostoy0u)
 # Kudos Beluga (he/him/his)
-## Fullstack freelancer ![Mongodb](https://img.shields.io/badge/-postgres?style=flat-square&logo=mongodb) ![Postgres](https://img.shields.io/badge/-postgres?style=flat-square&logo=postgresql) ![Nodejs](https://img.shields.io/badge/-nodejs?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express?style=flat-square&logo=express)
+## Fullstack freelancer ![Mongodb](https://img.shields.io/badge/-postgres?style=flat-square&logo=mongodb&logoColor=white&color=313131) ![Postgres](https://img.shields.io/badge/-postgres?style=flat-square&logo=postgresql&logoColor=white&color=313131) ![Nodejs](https://img.shields.io/badge/-nodejs?style=flat-square&logo=node.js&logoColor=white&color=313131) ![Express](https://img.shields.io/badge/-Express?style=flat-square&logo=express&logoColor=white&color=313131)
 ## Learning Rust, Haskell, Tailwind, and React
 ## Love shell scripting in Powershell and Fish
 ## Arch Linux + Windows Insider user
