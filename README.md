@@ -6,3 +6,4 @@
 ## Develop using<br><br>![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-006400?style=for-the-badge&logo=neovim&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u)
+![](https://www.freepngimg.com/thumb/graphic/53690-5-abstract-wave-download-png-download-free.png)
