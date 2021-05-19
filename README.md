@@ -8,4 +8,4 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop using<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-006400?style=for-the-badge&logo=neovim&logoColor=white)
 
 &nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u)
-![](https://user-images.githubusercontent.com/69732000/118870932-ae1db400-b8ac-11eb-9c7b-953633f8ab2b.png)
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
