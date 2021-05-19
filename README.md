@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/69732000/118875540-c6440200-b8b1-11eb-909c-459f2bc170dd.png" alt="Kudos Beluga" width="800"/>
+<img src="https://user-images.githubusercontent.com/69732000/118875985-541fed00-b8b2-11eb-8ce6-ec4a40c9160a.png" alt="Kudos Beluga" width="800"/>
 
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fullstack freelancer using <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Pug](https://img.shields.io/badge/pug-964B00?style=style-for-the-badge) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
