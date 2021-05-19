@@ -1,5 +1,5 @@
 ![my views](https://komarev.com/ghpvc/?username=kudostoy0u)
-![Kudos Beluga](https://user-images.githubusercontent.com/69732000/118868586-fc7d8380-b8a9-11eb-904d-9bf3539ac453.png)
+![Kudos Beluga](https://imgshare.io/images/2021/05/19/_3dtext2gif_hlvqqwijocae.gif)
 ## Fullstack freelancer <br><br>![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Pug](https://img.shields.io/badge/pug-964B00?style=style-for-the-badge)
 
 or-the-badge&logo=pug&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
