@@ -7,5 +7,5 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run code and/or deploy on<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows%20Insider-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white)
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop using<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-006400?style=for-the-badge&logo=neovim&logoColor=white)
 
-&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u)
+&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u&layout=compact&langs_count=9)
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
