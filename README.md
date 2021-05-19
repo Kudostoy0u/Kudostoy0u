@@ -7,5 +7,3 @@
 ## Develop using<br><br>![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-006400?style=for-the-badge&logo=neovim&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u)
-
-<sup><sub>[Sneak peek of portfolio site in development](https://user-images.githubusercontent.com/69732000/118157549-4cf36d80-b3e0-11eb-8650-891f847d3e04.png)</sub></sup>
